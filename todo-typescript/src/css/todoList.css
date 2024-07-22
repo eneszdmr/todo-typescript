@@ -1,0 +1,16 @@
+.single-todo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+    border: 1px solid lightcoral;
+    margin-top: 25px;
+    padding: 10px;
+}
+
+.icons{
+    font-size: 22px;
+    cursor: pointer;
+    
+}
